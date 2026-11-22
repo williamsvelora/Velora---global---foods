@@ -1,5 +1,5 @@
 // Add your verified company email below to activate enquiry emails.
-const VELORA_CONTACT_EMAIL = ""; // Example format: "sales@yourdomain.com"
+ const VELORA_CONTACT_EMAIL = "veloraglobalf@gmail.com";// Example format: "sales@yourdomain.com"
 
 const menuButton = document.querySelector(".menu-toggle");
 const nav = document.querySelector(".nav");
